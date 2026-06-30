@@ -1,0 +1,27 @@
+{
+  "dollar": {
+    "price": "1,700,100",
+    "change": 1.18,
+    "direction": "low"
+  },
+  "euro": {
+    "price": "1,966,400",
+    "change": 1.18,
+    "direction": "low"
+  },
+  "bitcoin": {
+    "price": "64341.20",
+    "change": 0.14,
+    "direction": "high"
+  },
+  "gold": {
+    "price": "738,510,000",
+    "change": 1.02,
+    "direction": "low"
+  },
+  "coin": {
+    "price": "1,731,050,000",
+    "change": 0.16,
+    "direction": "low"
+  }
+}
